@@ -26,3 +26,15 @@ Conceptos tratados en esta práctica:
   
 
 ## Enunciado
+
+El objetivo de la práctica es abordar un problema de data mining realista siguiendo la metodología y buenas prácticas explicadas durante las clases teóricas.
+
+La fuente recoge la información actualizada diariamente de los precios de los combustibles en España. Donde muestra las gasolineras y se puede consultar el precio, horario, marca y fecha de actualización del dato. Los datos sobre las gasolineras proceden del Ministerio de Energía, Turismo y Agenda Digital.
+
+Se trabajará con los precios oficiales y gratuitos sobre los precios de la gasolina de las gasolineras en España, el tiempo recogido será de una semana completa (de lunes a domingo).
+
+- **Fuente** (datos oficiales del gobierno español): https://datos.gob.es/es/catalogo/e04990201-precio-de-carburantes-en-lasgasolineras-espanolas
+
+- **Modelización:** GLM y su comparativa con Regresión y Redes Neuronales
+
+- **Objetivo:** predecir el precio de la gasolina 95 en España a nivel de provincia, desde el punto de vista del consumidor.
