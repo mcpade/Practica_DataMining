@@ -9,14 +9,20 @@ muy rápida. SAS tiene más de 200 componentes. Durante esta práctica se utiliz
 Conceptos tratados en esta práctica:
 
 - Data Cooking
-   - Depuración de datos: Missings, Outliers
+   - Análisis de la variable objetivo: Missings, outliers, duplicidades, incongruencias
+   - Análisis estadístico de la variable objetivo
+   - Análisis de variables categóricas: Missings, outliers, eliminación de variables con información redundante, generación de nuevas características de interés
+   - Análisis de variables analíticas: estadísticios básicos, missings, outliers, eliminación de variables, estudio de correlación
    
-- Representación de formas y leyendas
-- Gráficas: escalas, ejes de coordenadas, etiquetas
-- Representación de nubes de puntos y regresiones lineales
-- Lectura de datos desde APIs
-- Gráficas con animación (pulsaciones de teclas, click de mouse..)
-- Representación de mapas: GeoJSON, TopoJSON
-
+- Análisis de normalidad
+- Modelo lineal general (GLM): 
+    - Obtención de efectos que intervienen en el modelo (entrenamiento con y sin interacciones en el modelo)
+    - Análisis de errores
+    - Selección de modelo
+    - Test del modelo
+    
+- Usos de SAS/Miner para comparar modelos:
+     - GLM, Regresión Lineal, Redes Neuronales
+  
 
 ## Enunciado
