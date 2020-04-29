@@ -38,3 +38,14 @@ Se trabajará con los precios oficiales y gratuitos sobre los precios de la gaso
 - **Modelización:** GLM y su comparativa con Regresión y Redes Neuronales
 
 - **Objetivo:** predecir el precio de la gasolina 95 en España a nivel de provincia, desde el punto de vista del consumidor.
+
+- **RawData:** el dataset está ubicado en la carpeta **data** de este repositorio. Está comprimido en formato .zip
+
+La descripción del dataset se puede ver en el punto 1 del documento **"PracticaGasolina95_MariaAraceli_Paredes.pdf"**
+
+## Desarrollo
+
+La práctica de Data Mining se ha presentado en un único documento **"PracticaGasolina95_MariaAraceli_Paredes.pdf"** donde se ha añadido con explicaciones el código desarrollado. Este archivo no contiene únicamente código, sino también los pasos dados y las decisiones tomadas justificadas convenientemente.
+
+
+
