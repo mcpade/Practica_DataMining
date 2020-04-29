@@ -21,7 +21,7 @@ Conceptos tratados en esta práctica:
     - Selección de modelo
     - Test del modelo
     
-- Usos de SAS/Miner para comparar modelos:
+- Uso de SAS/Miner para comparar modelos:
      - GLM, Regresión Lineal, Redes Neuronales
   
 
