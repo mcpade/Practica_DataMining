@@ -8,7 +8,9 @@ muy rápida. SAS tiene más de 200 componentes. Durante esta práctica se utiliz
 
 Conceptos tratados en esta práctica:
 
-- SVG
+- Data Cooking
+   - Depuración de datos: Missings, Outliers
+   
 - Representación de formas y leyendas
 - Gráficas: escalas, ejes de coordenadas, etiquetas
 - Representación de nubes de puntos y regresiones lineales
