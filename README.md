@@ -29,7 +29,7 @@ Conceptos tratados en esta práctica:
 
 El objetivo de la práctica es abordar un problema de data mining realista siguiendo la metodología y buenas prácticas explicadas durante las clases teóricas.
 
-La fuente recoge la información actualizada diariamente de los precios de los combustibles en España. Donde muestra las gasolineras y se puede consultar el precio, horario, marca y fecha de actualización del dato. Los datos sobre las gasolineras proceden del Ministerio de Energía, Turismo y Agenda Digital.
+La fuente de datos recoge la información actualizada diariamente de los precios de los combustibles en España. Donde muestra las gasolineras y se puede consultar el precio, horario, marca y fecha de actualización del dato. Los datos sobre las gasolineras proceden del Ministerio de Energía, Turismo y Agenda Digital.
 
 Se trabajará con los precios oficiales y gratuitos sobre los precios de la gasolina de las gasolineras en España, el tiempo recogido será de una semana completa (de lunes a domingo).
 
