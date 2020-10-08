@@ -2,50 +2,50 @@
 
 # Módulo Data Mining - SAS
 
-Durante esta práctica se utiliza SAS (Statistical Analysis System). SAS es una de las herramientas 
-de análisis de datos más extendida y es capaz de trabajar grandes volúmenes de datos de manera ágil dando una respuesta
-muy rápida. SAS tiene más de 200 componentes. Durante esta práctica se utiliza **SAS/BASE, SAS/Studio, SAS/Guide y SAS/Miner**
+During this practice, SAS (Statistical Analysis System) is used. SAS is one of the tools
+more widespread data analysis and is capable of working large volumes of data in an agile way giving an answer
+very fast. SAS has more than 200 components. During this practice **SAS / BASE, SAS / Studio, SAS / Guide and SAS / Miner** are used
 
-Conceptos tratados en esta práctica:
+Concepts covered in this practice:
 
 - Data Cooking
-   - Análisis de la variable objetivo: Missings, outliers, duplicidades, incongruencias
-   - Análisis estadístico de la variable objetivo
-   - Análisis de variables categóricas: Missings, outliers, eliminación de variables con información redundante, generación de nuevas características de interés
-   - Análisis de variables analíticas: estadísticios básicos, missings, outliers, eliminación de variables, estudio de correlación
+   - Analysis of the objective variable: Missings, outliers, duplications, inconsistencies
+   - Statistical analysis of the target variable
+   - Analysis of categorical variables: Missings, outliers, elimination of variables with redundant information, generation of new characteristics of interest
+   - Analysis of analytical variables: basic statistics, missings, outliers, elimination of variables, correlation study
    
-- Análisis de normalidad
-- Modelo lineal general (GLM): 
-    - Obtención de efectos que intervienen en el modelo (entrenamiento con y sin interacciones en el modelo)
-    - Análisis de errores
-    - Selección de modelo
-    - Test del modelo
+- Normality analysis
+- General linear model (GLM):
+    - Obtaining of effects that intervene in the model (training with and without interactions in the model)
+    - Error analysis
+    - Model selection
+    - Model test
     
-- Uso de SAS/Miner para comparar modelos:
-     - GLM, Regresión Lineal, Redes Neuronales
+- Using SAS / Miner to compare models:
+     - GLM, Linear Regression, Neural Networks
   
 
-## Enunciado
+## Statement
 
-El objetivo de la práctica es abordar un problema de data mining realista siguiendo la metodología y buenas prácticas explicadas durante las clases teóricas.
+The objective of the practice is to tackle a realistic data mining problem following the methodology and good practices explained during the theoretical classes.
 
-La fuente de datos recoge la información actualizada diariamente de los precios de los combustibles en España. Donde muestra las gasolineras y se puede consultar el precio, horario, marca y fecha de actualización del dato. Los datos sobre las gasolineras proceden del Ministerio de Energía, Turismo y Agenda Digital.
+The data source collects daily updated information on fuel prices in Spain. Where it shows the gas stations and you can check the price, hours, brand and date of update of the data. The data on gas stations comes from the Ministry of Energy, Tourism and Digital Agenda.
 
-Se trabajará con los precios oficiales y gratuitos sobre los precios de la gasolina de las gasolineras en España, el tiempo recogido será de una semana completa (de lunes a domingo).
+It will work with the official and free prices on gasoline prices of gas stations in Spain, the time collected will be a full week (from Monday to Sunday).
 
-- **Fuente** (datos oficiales del gobierno español): https://datos.gob.es/es/catalogo/e04990201-precio-de-carburantes-en-lasgasolineras-espanolas
+- **Source** (official data from the Spanish government): https://datos.gob.es/es/catalogo/e04990201-precio-de-carburantes-en-lasgasolineras-espanolas
 
-- **Modelización:** GLM y su comparativa con Regresión y Redes Neuronales
+- **Modeling:** GLM and its comparison with Regression and Neural Networks
 
-- **Objetivo:** predecir el precio de la gasolina 95 en España a nivel de provincia, desde el punto de vista del consumidor.
+- **Objective:** to predict the price of 95 gasoline in Spain at the provincial level, from the consumer's point of view.
 
-- **RawData:** el dataset está ubicado en la carpeta **data** de este repositorio. Está comprimido en formato .zip
+- **RawData:** the dataset is located in the ** data ** folder of this repository. It is compressed in .zip format
 
-La descripción del dataset se puede ver en el punto 1 del documento **"PracticaGasolina95_MariaAraceli_Paredes.pdf"**
+The description of the dataset can be seen in point 1 of the document **"PracticaGasolina95_MariaAraceli_Paredes.pdf"**
 
-## Desarrollo
+## Developing
 
-La práctica de Data Mining se ha presentado en un único documento **"PracticaGasolina95_MariaAraceli_Paredes.pdf"** donde se ha añadido con explicaciones el código desarrollado. Este archivo no contiene únicamente código, sino también los pasos dados y las decisiones tomadas justificadas convenientemente.
+The Data Mining practice has been presented in a single document **"PracticaGasolina95_MariaAraceli_Paredes.pdf"** where the developed code has been added with explanations. This file does not only contain code, but also the steps taken and the decisions made appropriately justified.
 
 
 
